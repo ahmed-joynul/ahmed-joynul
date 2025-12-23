@@ -112,5 +112,5 @@ This profile represents **how I actually work**, not how I market myself.
 
 If you’re looking for:
 - Flashy exploits → look elsewhere  
-- Realistic attack simulation → you’re in the right place  
+- Realistic attack simulation → you’re in the right place 
 
